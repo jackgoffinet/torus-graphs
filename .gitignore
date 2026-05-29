@@ -1,0 +1,17 @@
+*.pdf
+*.npy
+*.png
+__pycache__
+*.npz
+*.DS_Store
+*.txt
+!requirements.txt
+!conda_requirements.txt
+*.joblib
+*.sh
+*.json
+*.log
+*.out
+/data/*
+/plotting/*
+*.zip
